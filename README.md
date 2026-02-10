@@ -62,10 +62,10 @@ This reflects the real role of people analytics: **supporting better decisions, 
 ## Screenshots
 
 ### Workforce & absence analytics
-![HR analytics dashboard and absence](screenshots/hr_analytics_dashboard_and_absence.png)
+![HR analytics dashboard and absence](hr_analytics_dashboard_and_absence.png)
 
 ### DEI representation
-![HR analytics DEI](screenshots/hr_analytics_dei.png)
+![HR analytics DEI](hr_analytics_dei.png)
 
 ---
 
